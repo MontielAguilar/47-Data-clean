@@ -1,5 +1,8 @@
 # Análisis de Datos de Ingresos y Salarios de la NBA
 
+![Python Logo](https://github.com/MontielAguilar/47-Data-clean/blob/main/python-logo.png)
+
+
 ## Descripción del Proyecto
 Este proyecto analiza los datos históricos de ingresos per cápita ajustados por inflación de varios países y los datos de salarios de jugadores de la NBA de la temporada 2017-2018. El análisis incluye la manipulación de datos, limpieza, recodificación y algunos cálculos estadísticos básicos.
 
